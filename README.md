@@ -2,12 +2,12 @@
 ### Project Structure
 ```
 | DataAccess
-    |__LibraryDataAcess.c
+|   |__LibraryDataAcess.c
 | Models
-    |__ Book.cs
-    |__ Member.cs
+|   |__ Book.cs
+|   |__ Member.cs
 |Services
-    |__ Library.cs
+|   |__ Library.cs
 | Program.cs 
 
 ```
