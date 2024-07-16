@@ -2,7 +2,7 @@
 1. [Library Management System](#Library_Management_System)
 2. [Subscription Management System](#Subscription_Management_System)
 
-## Library_Management_System
+# Library_Management_System
 ### Project Structure
 ```
 | DataAccess
@@ -16,7 +16,7 @@
 
 ```
 
-## Subscription_Management_System
+# Subscription_Management_System
 You can schedule the job in SQL if you want to auto-update the expiry date. At the assigned time daily the script runs and updates the table record where expiry-date <= 0.
 ### Architechture Overview
 1. Presentation Layer: Console Application
