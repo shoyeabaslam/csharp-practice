@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\SubscriptionManagementSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940E50A8-E8AC-493B-83CD-6FC90ED7E242}|SubscriptionManagementSystem.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\subscriptionmanagementsystem\\contexts\\subscriptioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940E50A8-E8AC-493B-83CD-6FC90ED7E242}|SubscriptionManagementSystem.csproj|solutionrelative:contexts\\subscriptioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionContext.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\SubscriptionManagementSystem\\Contexts\\SubscriptionContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\SubscriptionContext.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\SubscriptionManagementSystem\\Contexts\\SubscriptionContext.cs",
+              "RelativeToolTip": "Contexts\\SubscriptionContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:05:06.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

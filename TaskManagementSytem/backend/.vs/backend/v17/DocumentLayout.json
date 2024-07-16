@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\controllers\\usertaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:controllers\\usertaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\repositories\\userrepo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:repositories\\userrepo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\repositories\\userrepo\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:repositories\\userrepo\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\dtos\\userdto\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:dtos\\userdto\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\dtos\\userdto\\usersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:dtos\\userdto\\usersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|c:\\users\\shoye\\onedrive\\desktop\\c sharp practice\\taskmanagementsytem\\backend\\dtos\\userdto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E436B-2A37-48A2-BD62-AC5897A725F0}|backend.csproj|solutionrelative:dtos\\userdto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:12:54.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserSummary.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Dtos\\UserDto\\UserSummary.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserDto\\UserSummary.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Dtos\\UserDto\\UserSummary.cs",
+              "RelativeToolTip": "Dtos\\UserDto\\UserSummary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:27:54.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:56:45.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:14:56.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Controllers\\UserTasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserTasksController.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Controllers\\UserTasksController.cs",
+              "RelativeToolTip": "Controllers\\UserTasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:14:52.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "Data\\TaskDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:18:00.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Dtos\\UserDto\\GetUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserDto\\GetUserDto.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Dtos\\UserDto\\GetUserDto.cs",
+              "RelativeToolTip": "Dtos\\UserDto\\GetUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:22:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Dtos\\UserDto\\AddUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserDto\\AddUserDto.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Dtos\\UserDto\\AddUserDto.cs",
+              "RelativeToolTip": "Dtos\\UserDto\\AddUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:22:29.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Repositories\\UserRepo\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepo\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Repositories\\UserRepo\\IUserRepo.cs",
+              "RelativeToolTip": "Repositories\\UserRepo\\IUserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:21:02.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Repositories\\UserRepo\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepo\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Repositories\\UserRepo\\UserRepo.cs",
+              "RelativeToolTip": "Repositories\\UserRepo\\UserRepo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:00:41.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserMapping.cs",
+              "DocumentMoniker": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Mapping\\UserMapping.cs",
+              "RelativeDocumentMoniker": "Mapping\\UserMapping.cs",
+              "ToolTip": "C:\\Users\\shoye\\OneDrive\\Desktop\\C sharp Practice\\TaskManagementSytem\\backend\\Mapping\\UserMapping.cs",
+              "RelativeToolTip": "Mapping\\UserMapping.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAD4vxoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:29:21.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
