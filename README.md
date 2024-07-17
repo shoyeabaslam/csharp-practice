@@ -72,9 +72,9 @@ The Task Management System is a web application designed to help users manage th
    git clone https://github.com/yourusername/task-management-system.git
    cd task-management-system
    ```
-## For any doubts related to Entity Framework and Entity Relations in C# visit my blog
+### For any doubts related to Entity Framework and Entity Relations in C# visit my blog
 1. [Enitity Framework setup in ASP.NET](https://shoyeab.hashnode.dev/setting-up-an-aspnet-core-application-with-entity-framework-a-beginners-guide)
-2. [Enitity Relations in C#)(https://shoyeab.hashnode.dev/understanding-entity-relationships-in-c-a-comprehensive-guide)
+2. [Enitity Relations in C#](https://shoyeab.hashnode.dev/understanding-entity-relationships-in-c-a-comprehensive-guide)
    
 ## Demo
 ![111](https://github.com/user-attachments/assets/640d4196-0074-4905-bebc-1a5a8c2825d9)
